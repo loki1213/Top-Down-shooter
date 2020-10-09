@@ -1,0 +1,5 @@
+*.reS filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win/Data filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win/Data filter=lfs diff=lfs merge=lfs -text
+sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
